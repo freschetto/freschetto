@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @freschetto.
+- 👀 I’m interested in becoming a good programmer.
+- 🌱 I’m currently learning to program in a computer school.
+- 💞️ I’m looking to collaborate with anyone who is willing to help.
+- 📫 How to reach me: freschetto@protonmail.com.
